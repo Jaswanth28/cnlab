@@ -1,0 +1,4 @@
+sudo apt-get install telnetd
+y
+sudo /etc/init.d/openbsd-inetd restart
+done😊
